@@ -2,6 +2,9 @@
 
 This repository contains the code, experiments, and documentation for a deep learning challenge (Polimi) project focused on semantic segmentation of Martian soil images. The project was developed as part of a Deep Learning course and showcases extensive experimentation with U-Net based architectures and various enhancements.
 
+![image](https://github.com/user-attachments/assets/679ae63f-214a-403c-a2c1-ab9b998ecf00)
+
+
 ## Overview
 
 - **Objective:**  
